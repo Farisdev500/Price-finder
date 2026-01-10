@@ -15,6 +15,3 @@ find prices from this website and put it in an excel sheet
 
 # i made this web scraper by myself btw
 
-# How to use?
-enter you link from the https://gigate.com store 
-press Enter!
